@@ -1,0 +1,37 @@
+body {
+  background-color: black;
+  color: white;
+  font-family: Arial, sans-serif;
+}
+
+table {
+  border-collapse: collapse;
+  margin: 0 auto;
+}
+
+td {
+  width: 50px;
+  height: 50px;
+  text-align: center;
+  border: 1px solid white;
+}
+
+.empty {
+  background-color: black;
+  border: none;
+}
+
+.element {
+  font-size: 18px;
+  font-weight: bold;
+  cursor: pointer;
+}
+
+.H {
+  background-color: #C7C7C7;
+}
+
+.He {
+  background-color: #FFC0CB;
+}
+/* Add more CSS styles for each element */
